@@ -1,3 +1,4 @@
+//Algorithme de Doolittle
 function [L,U]=mylu3b(A)
     n = size(A,1);
     L = eye(n,n);
