@@ -1,4 +1,5 @@
 //mesure 
+//Jean-Francois Brandon
 exec("matmat3b.sci");
 exec("matmat2b.sci");
 exec("matmat1b.sci");
