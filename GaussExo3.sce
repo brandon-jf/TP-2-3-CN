@@ -1,3 +1,4 @@
+//JEAN-FRANCOIS Brandon
 exec('gausskij3b.sci');
 //Tableaux des erreurs
 f_err = zeros(40,1); //Erreur avant
