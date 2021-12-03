@@ -1,4 +1,5 @@
 //cd("TP/Scilab version/");
+//JEAN-FRANCOIS Brandon
 exec('lsolv.sci',-1);
 f_err = zeros(100,1);
 b_err = zeros(100,1);
