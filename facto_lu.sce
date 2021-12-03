@@ -1,4 +1,5 @@
- exec('C:\Users\ttreb\Brandon\mylu3b.sci', -1);
+//Jean-Francois Brandon
+exec('mylu3b.sci', -1);
 //Tableaux des erreurs
 err = zeros(40,1); //Erreur Arriere
 
